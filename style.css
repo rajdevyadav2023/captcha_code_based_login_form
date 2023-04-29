@@ -52,7 +52,10 @@
     transition: all .5s ease;
     font-size: 16px;
 }
-
+#c-screen{
+    font-size: 25px;
+    text-align: center;
+}
 .form input {
     padding: 10px;
     background-color: #00000051;
