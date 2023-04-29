@@ -81,3 +81,11 @@
 .form button:hover {
     background-color: #165b9f;
 }
+
+/* ----------------------------------------- */
+.coder{
+    position: absolute;
+    bottom: 20px;
+    color: silver;
+    right: 20px;
+}
